@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(127, 229, 255);
+}
+.scheda{
+    padding: 50px;
+    margin-top: 150px;
+    width: auto;
+    background-color: rgb(51, 194, 241);
+    height: auto;
+    text-align: center;
+    border-radius: 10px;
+
+}
+.profilo{
+    height: auto;
+    text-align: center;
+    background-color: rgb(63, 99, 255);
+    border-radius: 30px;
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+.foto_profilo{
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+}
+.scheda_cambio{
+    border-radius: 50px;
+    padding: 15px;
+    background-color: rgb(131, 220, 250);
+    height: 145px;
+}
+.checkbox{
+    padding-left: 20px;
+    text-align: left;
+    height: 120px;
+    margin-right: 75%;
+    border-radius: 30px;
+    padding-top: 1%;
+    background-color: rgb(63, 99, 255);
+    margin-bottom: -150px;
+}
+.ricorrenze{
+    text-align: center;
+    height:120px;
+    margin-left: 50%;
+    border-radius: 30px;
+    background-color: rgb(63, 99, 255);
+}
+.giorni{
+    height: auto;
+    text-align: center;
+}
