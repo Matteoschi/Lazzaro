@@ -1,8 +1,11 @@
 body{
-    background-color: rgb(127, 229, 255);
+    background-image: url("https://images7.alphacoders.com/866/866208.jpg");
 }
 .scheda{
-    padding: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     margin-top: 150px;
     background-color: rgb(51, 194, 241);
     text-align: center;
@@ -11,15 +14,18 @@ body{
 }
 .profilo{
     text-align: center;
-    background-color: rgb(63, 99, 255);
     border-radius: 30px;
     padding: 10px;
-    margin-bottom: 20px;
-
+}
+.nome{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    float:right;
+    margin-top: 12%;
+    margin-right: 10%;
 }
 .foto_profilo{
-    width: 10%;
-    height: 10%;
+    width: 30%;
     border-radius: 50%;
 }
 .scheda_cambio{
@@ -35,21 +41,12 @@ body{
     background-color: rgb(63, 99, 255);
     float: left;
 }
-.filtri{
-    width: 20%;
-    padding: 20px;
-    text-align: center;
-    border-radius: 30px;
-    background-color: rgb(63, 99, 255);
-    float: right;
-    margin-left: 5%;
-}
 .ricorrenze{
     float: right;
-    width: 45%;
     text-align: center;
     border-radius: 30px;
     background-color: rgb(63, 99, 255);
+    width: 50%;
 }
 .giorni{
     height: auto;
