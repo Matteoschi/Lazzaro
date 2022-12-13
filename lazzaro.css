@@ -10,7 +10,8 @@ body{
     background-color: rgb(51, 194, 241);
     text-align: center;
     border-radius: 10px;
-
+    margin-left:10%;
+    margin-right:10%;
 }
 .profilo{
     text-align: center;
@@ -29,26 +30,28 @@ body{
     border-radius: 50%;
 }
 .scheda_cambio{
-    height: 180px;
+    height: 200px;
     border-radius: 50px;
     padding: 20px;
     background-color: rgb(131, 220, 250);
 }
 .checkbox{
+    height:85%;
     padding: 20px;
     text-align: left;
     border-radius: 30px;
     background-color: rgb(63, 99, 255);
     float: left;
+    width:20%;
 }
 .ricorrenze{
+    height:105%;
     float: right;
     text-align: center;
     border-radius: 30px;
     background-color: rgb(63, 99, 255);
-    width: 50%;
+    width: 67%;
 }
-.giorni{
-    height: auto;
-    text-align: center;
+.modi{
+    color:white;
 }
